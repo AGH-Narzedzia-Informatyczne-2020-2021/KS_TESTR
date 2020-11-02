@@ -1,0 +1,2 @@
+# Testowe Repozytorium
+*KS*
